@@ -1,0 +1,435 @@
+UserID: 5633025547 | Time: 2024-05-21 06:10:48.751691 | Command: /bgmi | Target: 20.40.44.132 | Port: 10761 | Time: 180
+Username: UserID: 5633025547
+Target: 20.40.44.132
+Port: 10761
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 06:11:24.041204 | Command: /bgmi | Target: 20.235.53.99 | Port: 29498 | Time: 180
+Username: UserID: 1086348730
+Target: 20.235.53.99
+Port: 29498
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 08:20:39.626129 | Command: /bgmi | Target: 20.235.51.182 | Port: 23921 | Time: 180
+Username: UserID: 5633025547
+Target: 20.235.51.182
+Port: 23921
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 08:23:29.126931 | Command: /bgmi | Target: 20.204.189.83 | Port: 10029 | Time: 180
+Username: UserID: 1359897469
+Target: 20.204.189.83
+Port: 10029
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 08:29:09.428074 | Command: /bgmi | Target: 20.204.19.253 | Port: 10627 | Time: 180
+Username: UserID: 1086348730
+Target: 20.204.19.253
+Port: 10627
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 08:30:49.272010 | Command: /bgmi | Target: 20.198.78.222 | Port: 22798 | Time: 180
+Username: UserID: 1359897469
+Target: 20.198.78.222
+Port: 22798
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 08:35:23.606632 | Command: /bgmi | Target: 20.198.78.222 | Port: 22798 | Time: 180
+Username: UserID: 1359897469
+Target: 20.198.78.222
+Port: 22798
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 08:36:29.687713 | Command: /bgmi | Target: 20.198.5.89 | Port: 20000 | Time: 180
+Username: UserID: 5633025547
+Target: 20.198.5.89
+Port: 20000
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 08:41:59.956060 | Command: /bgmi | Target: 20.235.93.195 | Port: 11159 | Time: 180
+Username: UserID: 1359897469
+Target: 20.235.93.195
+Port: 11159
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 08:42:00.478010 | Command: /bgmi | Target: 20.235.90.9 | Port: 10871 | Time: 180
+Username: UserID: 5633025547
+Target: 20.235.90.9
+Port: 10871
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 08:45:02.206981 | Command: /bgmi | Target: 20.235.93.195 | Port: 11159 | Time: 180
+Username: UserID: 1359897469
+Target: 20.235.93.195
+Port: 11159
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 08:46:38.695518 | Command: /bgmi | Target: 4.213.68.241 | Port: 23951 | Time: 180
+Username: UserID: 1086348730
+Target: 4.213.68.241
+Port: 23951
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 08:57:25.288111 | Command: /bgmi | Target: 20.235.93.195 | Port: 11159 | Time: 180
+Username: UserID: 1359897469
+Target: 20.235.93.195
+Port: 11159
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 09:01:09.846217 | Command: /bgmi | Target: 4.213.68.231 | Port: 16753 | Time: 180
+Username: UserID: 5633025547
+Target: 4.213.68.231
+Port: 16753
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 09:01:48.713996 | Command: /bgmi | Target: 20.219.79.44 | Port: 29974 | Time: 180
+Username: UserID: 1086348730
+Target: 20.219.79.44
+Port: 29974
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 09:04:12.320527 | Command: /bgmi | Target: 20.204.39.117 | Port: 27296 | Time: 180
+Username: UserID: 1359897469
+Target: 20.204.39.117
+Port: 27296
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 09:11:00.734145 | Command: /bgmi | Target: 20.235.94.237 | Port: 17634 | Time: 180
+Username: UserID: 1359897469
+Target: 20.235.94.237
+Port: 17634
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 09:14:04.952904 | Command: /bgmi | Target: 20.235.94.237 | Port: 17634 | Time: 180
+Username: UserID: 1359897469
+Target: 20.235.94.237
+Port: 17634
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 09:14:10.385359 | Command: /bgmi | Target: 20.204.159.234 | Port: 25762 | Time: 180
+Username: UserID: 1086348730
+Target: 20.204.159.234
+Port: 25762
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 09:23:03.686219 | Command: /bgmi | Target: 20.204.17.190 | Port: 10170 | Time: 180
+Username: UserID: 1359897469
+Target: 20.204.17.190
+Port: 10170
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 09:36:54.577588 | Command: /bgmi | Target: 4.247.17.228 | Port: 10512 | Time: 180
+Username: UserID: 5633025547
+Target: 4.247.17.228
+Port: 10512
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 09:57:59.294267 | Command: /bgmi | Target: 20.198.75.180 | Port: 20935 | Time: 180
+UserID: 5633025547 | Time: 2024-05-21 10:02:02.680573 | Command: /bgmi | Target: 20.43.174.20 | Port: 17500 | Time: 180
+Username: UserID: 5633025547
+Target: 20.43.174.20
+Port: 17500
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 10:03:40.454542 | Command: /bgmi | Target: 20.235.14.83 | Port: 28438 | Time: 180
+Username: UserID: 5633025547
+Target: 20.235.14.83
+Port: 28438
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 10:09:13.152109 | Command: /bgmi | Target: 20.204.148.249 | Port: 23237 | Time: 180
+Username: UserID: 1359897469
+Target: 20.204.148.249
+Port: 23237
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 10:09:14.787954 | Command: /bgmi | Target: 20.204.148.249 | Port: 23237 | Time: 180
+Username: UserID: 1359897469
+Target: 20.204.148.249
+Port: 23237
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 10:22:23.697003 | Command: /bgmi | Target: 20.204.178.174 | Port: 27661 | Time: 180
+Username: UserID: 1359897469
+Target: 20.204.178.174
+Port: 27661
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 10:25:42.691678 | Command: /bgmi | Target: 20.204.178.174 | Port: 27661 | Time: 180
+Username: UserID: 1359897469
+Target: 20.204.178.174
+Port: 27661
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 10:31:08.111139 | Command: /bgmi | Target: 20.235.95.37 | Port: 26093 | Time: 180
+UserID: 5633025547 | Time: 2024-05-21 10:35:25.556358 | Command: /bgmi | Target: 20.219.163.69 | Port: 24434 | Time: 180
+Username: UserID: 5633025547
+Target: 20.219.163.69
+Port: 24434
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 10:36:51.762854 | Command: /bgmi | Target: 20.204.66.62 | Port: 20000 | Time: 180
+Username: UserID: 5633025547
+Target: 20.204.66.62
+Port: 20000
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 10:38:27.567025 | Command: /bgmi | Target: 20.204.16.70 | Port: 11171 | Time: 180
+Username: UserID: 1086348730
+Target: 20.204.16.70
+Port: 11171
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 10:42:19.985232 | Command: /bgmi | Target: 20.219.163.69 | Port: 24434 | Time: 180
+Username: UserID: 5633025547
+Target: 20.219.163.69
+Port: 24434
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 10:43:05.810571 | Command: /bgmi | Target: 20.198.107.78 | Port: 10801 | Time: 180
+Username: UserID: 1086348730
+Target: 20.198.107.78
+Port: 10801
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 10:46:45.810911 | Command: /bgmi | Target: 20.204.108.117 | Port: 24638 | Time: 180
+Username: UserID: 1086348730
+Target: 20.204.108.117
+Port: 24638
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 10:56:58.339555 | Command: /bgmi | Target: 20.198.5.203 | Port: 20000 | Time: 180
+Username: UserID: 5633025547
+Target: 20.198.5.203
+Port: 20000
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 10:57:40.435812 | Command: /bgmi | Target: 20.204.39.31 | Port: 19184 | Time: 180
+Username: UserID: 1086348730
+Target: 20.204.39.31
+Port: 19184
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 11:00:00.397852 | Command: /bgmi | Target: 4.213.65.14 | Port: 15097 | Time: 180
+Username: UserID: 5633025547
+Target: 4.213.65.14
+Port: 15097
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 11:02:20.227176 | Command: /bgmi | Target: 20.235.91.249 | Port: 20929 | Time: 180
+Username: UserID: 1086348730
+Target: 20.235.91.249
+Port: 20929
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 11:06:18.924249 | Command: /bgmi | Target: 20.235.148.211 | Port: 14208 | Time: 180
+Username: UserID: 1086348730
+Target: 20.235.148.211
+Port: 14208
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 11:29:47.907882 | Command: /bgmi | Target: 20.204.66.75 | Port: 20001 | Time: 180
+Username: UserID: 5633025547
+Target: 20.204.66.75
+Port: 20001
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 11:31:47.684974 | Command: /bgmi | Target: 20.204.148.64 | Port: 21341 | Time: 180
+Username: UserID: 5633025547
+Target: 20.204.148.64
+Port: 21341
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 12:05:24.575784 | Command: /bgmi | Target: 20.198.78.134 | Port: 23512 | Time: 180
+Username: UserID: 1086348730
+Target: 20.198.78.134
+Port: 23512
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 12:11:06.707785 | Command: /bgmi | Target: 4.247.19.49 | Port: 10978 | Time: 180
+Username: UserID: 1086348730
+Target: 4.247.19.49
+Port: 10978
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 12:22:31.324249 | Command: /bgmi | Target: 20.204.181.168 | Port: 19778 | Time: 180
+Username: UserID: 1086348730
+Target: 20.204.181.168
+Port: 19778
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 12:35:35.605865 | Command: /bgmi | Target: 20.235.88.173 | Port: 13846 | Time: 180
+Username: UserID: 1086348730
+Target: 20.235.88.173
+Port: 13846
+Time: 180
+
+UserID: 1575627202 | Time: 2024-05-21 12:46:11.966751 | Command: /bgmi | Target: 20.204.191.230 | Port: 10062 | Time: 180
+Username: @BAHUBALIOWNER1
+Target: 20.204.191.230
+Port: 10062
+Time: 180
+
+UserID: 1575627202 | Time: 2024-05-21 12:49:33.751822 | Command: /bgmi | Target: 20.204.191.230 | Port: 10062 | Time: 100
+Username: @BAHUBALIOWNER1
+Target: 20.204.191.230
+Port: 10062
+Time: 100
+
+UserID: 1575627202 | Time: 2024-05-21 12:51:05.201970 | Command: /bgmi | Target: 20.204.191.230 | Port: 10062 | Time: 80
+Username: @BAHUBALIOWNER1
+Target: 20.204.191.230
+Port: 10062
+Time: 80
+
+UserID: 1086348730 | Time: 2024-05-21 13:15:26.456775 | Command: /bgmi | Target: 20.235.53.163 | Port: 24772 | Time: 180
+Username: UserID: 1086348730
+Target: 20.235.53.163
+Port: 24772
+Time: 180
+
+UserID: 1575627202 | Time: 2024-05-21 13:25:14.177249 | Command: /bgmi | Target: 20.235.51.243 | Port: 26053 | Time: 180
+Username: @BAHUBALIOWNER1
+Target: 20.235.51.243
+Port: 26053
+Time: 180
+
+UserID: 1575627202 | Time: 2024-05-21 13:26:08.338164 | Command: /bgmi | Target: 20.235.51.243 | Port: 26053 | Time: 100
+Username: @BAHUBALIOWNER1
+Target: 20.235.51.243
+Port: 26053
+Time: 100
+
+UserID: 1575627202 | Time: 2024-05-21 13:28:21.957224 | Command: /bgmi | Target: 20.235.51.243 | Port: 26053 | Time: 80
+Username: @BAHUBALIOWNER1
+Target: 20.235.51.243
+Port: 26053
+Time: 80
+
+UserID: 1575627202 | Time: 2024-05-21 13:37:59.556209 | Command: /bgmi | Target: 20.235.147.239 | Port: 18625 | Time: 180
+Username: @BAHUBALIOWNER1
+Target: 20.235.147.239
+Port: 18625
+Time: 180
+
+UserID: 1575627202 | Time: 2024-05-21 13:41:06.181917 | Command: /bgmi | Target: 20.235.147.239 | Port: 18625 | Time: 100
+Username: @BAHUBALIOWNER1
+Target: 20.235.147.239
+Port: 18625
+Time: 100
+
+UserID: 1575627202 | Time: 2024-05-21 13:43:48.865676 | Command: /bgmi | Target: 20.235.147.239 | Port: 18625 | Time: 80
+Username: @BAHUBALIOWNER1
+Target: 20.235.147.239
+Port: 18625
+Time: 80
+
+UserID: 1575627202 | Time: 2024-05-21 14:22:52.555780 | Command: /bgmi | Target: 4.213.65.144 | Port: 17117 | Time: 180
+Username: @BAHUBALIOWNER1
+Target: 4.213.65.144
+Port: 17117
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 14:24:03.767072 | Command: /bgmi | Target: 20.204.189.60 | Port: 10206 | Time: 180
+Username: UserID: 5633025547
+Target: 20.204.189.60
+Port: 10206
+Time: 180
+
+UserID: 1575627202 | Time: 2024-05-21 14:27:08.242412 | Command: /bgmi | Target: 20.235.19.173 | Port: 24072 | Time: 180
+Username: @BAHUBALIOWNER1
+Target: 20.235.19.173
+Port: 24072
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 14:29:01.505774 | Command: /bgmi | Target: 4.247.19.14 | Port: 12121 | Time: 180
+Username: UserID: 1359897469
+Target: 4.247.19.14
+Port: 12121
+Time: 180
+
+UserID: 1575627202 | Time: 2024-05-21 14:30:11.366535 | Command: /bgmi | Target: 20.235.19.173 | Port: 24072 | Time: 100
+Username: @BAHUBALIOWNER1
+Target: 20.235.19.173
+Port: 24072
+Time: 100
+
+UserID: 5633025547 | Time: 2024-05-21 14:50:02.697232 | Command: /bgmi | Target: 20.235.93.160 | Port: 19413 | Time: 180
+Username: UserID: 5633025547
+Target: 20.235.93.160
+Port: 19413
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 14:52:41.396771 | Command: /bgmi | Target: 52.140.45.114 | Port: 12064 | Time: 180
+Username: UserID: 1359897469
+Target: 52.140.45.114
+Port: 12064
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 14:54:50.759299 | Command: /bgmi | Target: 52.140.45.114 | Port: 12064 | Time: 100
+Username: UserID: 1359897469
+Target: 52.140.45.114
+Port: 12064
+Time: 100
+
+UserID: 1359897469 | Time: 2024-05-21 15:00:36.544363 | Command: /bgmi | Target: 4.213.66.126 | Port: 12793 | Time: 180
+Username: UserID: 1359897469
+Target: 4.213.66.126
+Port: 12793
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 15:03:40.631960 | Command: /bgmi | Target: 4.213.66.126 | Port: 12793 | Time: 100
+Username: UserID: 1359897469
+Target: 4.213.66.126
+Port: 12793
+Time: 100
+
+UserID: 1359897469 | Time: 2024-05-21 15:04:53.978872 | Command: /bgmi | Target: 4.213.66.126 | Port: 12793 | Time: 80
+Username: UserID: 1359897469
+Target: 4.213.66.126
+Port: 12793
+Time: 80
+
+UserID: 5633025547 | Time: 2024-05-21 15:28:19.628710 | Command: /bgmi | Target: 20.219.88. | Port: 23922 | Time: 180
+Username: UserID: 5633025547
+Target: 20.219.88.
+Port: 23922
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 15:30:56.099138 | Command: /bgmi | Target: 20.219.107.207 | Port: 10165 | Time: 180
+Username: UserID: 1359897469
+Target: 20.219.107.207
+Port: 10165
+Time: 180
+
+UserID: 1359897469 | Time: 2024-05-21 15:32:41.931627 | Command: /bgmi | Target: 20.219.107.207 | Port: 10165 | Time: 100
+Username: UserID: 1359897469
+Target: 20.219.107.207
+Port: 10165
+Time: 100
+
+UserID: 5633025547 | Time: 2024-05-21 15:37:17.396184 | Command: /bgmi | Target: 52.140.7.185 | Port: 21804 | Time: 180
+Username: UserID: 5633025547
+Target: 52.140.7.185
+Port: 21804
+Time: 180
+
+UserID: 5633025547 | Time: 2024-05-21 15:46:14.532269 | Command: /bgmi | Target: 20.235.92.205 | Port: 29507 | Time: 180
+UserID: 5633025547 | Time: 2024-05-21 15:47:35.610564 | Command: /bgmi | Target: 20.235.92.205 | Port: 29507 | Time: 180
+Username: UserID: 5633025547
+Target: 20.235.92.205
+Port: 29507
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 16:32:55.527547 | Command: /bgmi | Target: 20.219.78.93 | Port: 24599 | Time: 180
+Username: UserID: 1086348730
+Target: 20.219.78.93
+Port: 24599
+Time: 180
+
+UserID: 1086348730 | Time: 2024-05-21 16:53:35.187643 | Command: /bgmi | Target: 4.247.19.49 | Port: 10528 | Time: 180
+Username: UserID: 1086348730
+Target: 4.247.19.49
+Port: 10528
+Time: 180
+
